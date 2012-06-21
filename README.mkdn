@@ -1,0 +1,12 @@
+# paperboy.vim
+
+Hyper powerup your vim.
+
+## How to
+
+    $ curl https://raw.github.com/gongo/paperboy.vim/master/powerup.sh | sh && exec $SHELL
+    $ vim
+
+## License
+
+see LICENSE file
