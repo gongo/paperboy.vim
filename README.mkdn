@@ -5,7 +5,20 @@ Hyper powerup your vim.
 ## How to
 
     $ curl https://raw.github.com/gongo/paperboy.vim/master/powerup.sh | sh && exec $SHELL
+
+## Hyper Powerful Vim
+
     $ vim
+
+![Start Hyper Powerful Vim](https://cacoo.com/diagrams/Wxwu4zr9QzlbLf6H-8D283.png)
+
+    M-x vimshell
+
+![M-x vimshell](https://cacoo.com/diagrams/Wxwu4zr9QzlbLf6H-47BD1.png)
+
+Vim shell!!
+
+![vimshell!!](https://cacoo.com/diagrams/Wxwu4zr9QzlbLf6H-A3A28.png)
 
 ## License
 
